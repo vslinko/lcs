@@ -1,0 +1,33 @@
+{
+  "name": "lcs"
+, "version": "0.1.0"
+, "description": "Longest Common Subsequence Algorithm Implementation"
+, "bugs": {
+    "url": "https://github.com/vslinko/lcs/issues"
+  , "email": "vyacheslav.slinko@gmail.com"
+  }
+, "author": {
+    "name": "Vyacheslav Slinko"
+  , "email": "vyacheslav.slinko@gmail.com"
+  }
+, "main": "lib"
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/vslinko/lcs.git"
+  }
+, "scripts": {
+    "test": "grunt"
+  }
+, "devDependencies": {
+    "chai": "~1.6"
+  , "grunt": "~0.4"
+  , "grunt-simple-mocha": "~0.4"
+  , "grunt-coffeelint": "~0.0"
+  }
+, "engines": {
+    "node": "~0.8"
+  , "npm": "~1.2"
+  , "coffee-script": "~1.6"
+  , "grunt-cli": "~0.4"
+  }
+}
